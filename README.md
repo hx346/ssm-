@@ -1,6 +1,14 @@
-＃ssm-数据库mysql5.5
+＃SSM模板
+
+
+
+ssm-数据库mysql5.5
+
+
 jdk1.8
 开发工具eclipse
+
+来源http://how2j.cn
 
 建表语句
 
